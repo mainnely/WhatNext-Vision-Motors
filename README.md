@@ -27,6 +27,7 @@ Use a trigger handler framework for modular and maintainable code.
 4. Batch Jobs
 Create a Batch Apex job to periodically check and update stock availability.
 Send scheduled email notifications for stock replenishment and order processing.
+
 What You'll Learn
 Data Modelling
 Fields and Relationships
